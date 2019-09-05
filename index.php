@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <head>
-	<title>Web Blog</title>
+	<title>Web Blog | Home</title>
 	<link rel="stylesheet" type="text/css" href="css/mystyle.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<script type="text/javascript" href = "js/bootstrap.min.js"></script>
